@@ -1,4 +1,6 @@
 #include <stdio.h>
+//https://www.acmicpc.net/problem/1110
+
 int main(){
 
     int N, M, ten, one;

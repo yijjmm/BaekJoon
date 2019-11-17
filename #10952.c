@@ -1,4 +1,5 @@
 #include <stdio.h>
+//https://www.acmicpc.net/problem/10952
 
 int main(){
     int a, b;
